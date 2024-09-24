@@ -38,4 +38,5 @@ body {
 
 .botao_segundario{
     background-color: transparent;
+    border: 2px solid var(--branco-pricinpal);
 }
